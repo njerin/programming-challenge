@@ -1,4 +1,4 @@
-//  Dev Challenge | Captivation Software
+//  Captivation Software Programming Challenge
 //
 //  The Project:
 //    Rock Paper Scissors

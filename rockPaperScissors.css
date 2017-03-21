@@ -1,0 +1,26 @@
+html{
+    height: 100%;
+}
+h1,h4 {
+    color: white;
+    font-weight: 700;
+}
+hr {
+    border: 1px solid;
+    color: white;
+}
+body{
+    font-family: Lato;
+    color: white;
+    background-color: chocolate;
+}
+#clickToPlayButton{
+    margin-top: 7%;
+    color: white;
+}
+#scores{
+    margin-top: 5%;
+}
+#buttons{
+    margin-top: 5%;
+}
